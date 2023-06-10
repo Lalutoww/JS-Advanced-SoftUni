@@ -9,7 +9,6 @@ function calculator() {
             html.s2 = document.querySelector(selector2);
             html.output = document.querySelector(resultSelector);
         },
-        add
     }
 }
 

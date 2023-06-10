@@ -1,0 +1,16 @@
+{
+  "name": "js-advanced-softuni",
+  "version": "1.0.0",
+  "description": "This is a repository with solutions of problems in SoftUni Course: JS Advanced - May 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
