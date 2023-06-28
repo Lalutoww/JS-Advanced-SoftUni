@@ -27,4 +27,4 @@ function lockedProfile() {
     e.target.textContent = SHOW_MORE;
     return;
   }
-}ˆ
+}
