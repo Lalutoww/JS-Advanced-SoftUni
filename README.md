@@ -7,3 +7,4 @@ Working with linear structures
 Information extraction and manipulation of the DOM tree
 Application of object-oriented programming
 Application of functional programming
+![JS Advanced - May 2023 - Certificate](https://github.com/Lalutoww/JS-Advanced-SoftUni/assets/47317818/ef316b45-457f-4ab4-8197-a15554029144)
